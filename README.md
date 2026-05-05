@@ -1,4 +1,7 @@
 🚗 Toll Management System (Java - Console Based)
+
+
+
 📌 Project Overview
 
 This is a console-based Toll Management System developed using Java. The application simulates how toll gates work by managing vehicle entries, calculating toll charges based on vehicle type and peak hours, and processing payments.
@@ -8,6 +11,8 @@ The project is built using Object-Oriented Programming (OOP) concepts such as:
 Encapsulation
 Inheritance
 Method abstraction
+
+
 🎯 Features
 Accept vehicle details (Number, Type, Entry Time)
 Validate vehicle number using regex (AP format)
@@ -27,7 +32,11 @@ Total revenue
 Java
 OOP Concepts
 Console-based UI
+
+
 📅 Development Progress
+
+
 🟢 Day 1: Project Setup & Basic Flow
 
 On the first day, I focused on building the foundation of the project.
