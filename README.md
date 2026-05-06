@@ -89,3 +89,6 @@ Peak charge
 Total amount
 
 👉 Outcome: System can now calculate toll dynamically based on vehicle type and timing.
+Payment System & Flow Control
+------------------------------
+On Day 3, I enhanced the Toll Management System by implementing a complete payment module with multiple modes like UPI, Cash, and FASTag, along with logic to handle successful, pending, and failed transactions. I added receipt generation displaying vehicle details, toll amount, payment mode, and status, and maintained records for completed, incomplete, and pending payments with total calculations. I also improved the vehicle processing flow using a loop to handle multiple vehicles and fixed issues causing unnecessary repetition, while gaining a better understanding of control flow, condition handling, and modular design.
