@@ -17,6 +17,10 @@ public class Vehicle extends Toll {
 
 	}
 
+	public void setVehicleNumber(String vehicleNumber) {
+		this.vehicleNumber = this.checkVehicleNumber(vehicleNumber);
+	}
+
 	public String checkVehicleNumber(String vehicleNumber) {
 		if (vehicleNumber != null && vehicleNumber.matches("AP\\d{2}[A-Z]{1,2}\\d{4}")) {
 			return vehicleNumber;
@@ -34,6 +38,6 @@ public class Vehicle extends Toll {
 		System.out.println("Vehicle Type : " + vehicletype);
 		System.out.println("Entry Time : " + entryTime);
 		System.out.println("status : Accepted");
-		countVehiclesInDay+=1;
+		countVehiclesInDay += 1;
 	}
 }
