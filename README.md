@@ -92,3 +92,13 @@ Total amount
 Payment System & Flow Control
 ------------------------------
 On Day 3, I enhanced the Toll Management System by implementing a complete payment module with multiple modes like UPI, Cash, and FASTag, along with logic to handle successful, pending, and failed transactions. I added receipt generation displaying vehicle details, toll amount, payment mode, and status, and maintained records for completed, incomplete, and pending payments with total calculations. I also improved the vehicle processing flow using a loop to handle multiple vehicles and fixed issues causing unnecessary repetition, while gaining a better understanding of control flow, condition handling, and modular design.
+***ScreenShots:  CONSOLE BASED SAMPLE SCREENSHOTS :-
+TOTAL REVENUE CALCULATED CONSIST OF DAILY HOW MUCH PENDING AND NON PENDING PAYEMNTS REPORTS ALONG WITH VEHICLE NUMBERS
+<img width="1920" height="1080" alt="Screenshot 2026-05-11 105527" src="https://github.com/user-attachments/assets/d943ff9a-cf4c-4c54-b7ae-24fc738f0762" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-11 105634" src="https://github.com/user-attachments/assets/39000450-b838-4c78-a596-7bc70f131647" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-11 105556" src="https://github.com/user-attachments/assets/aa93277b-2973-4382-ae63-881657fad14e" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-11 105731" src="https://github.com/user-attachments/assets/4fb216b6-95fb-47fc-a90b-954865b7b2e5" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-11 105718" src="https://github.com/user-attachments/assets/f3e9d9e2-2ad9-4a8a-9a55-6020ef2e2ba6" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-11 105658" src="https://github.com/user-attachments/assets/a681a07b-42a7-453e-a4ea-7917a73401d8" />
+
+
